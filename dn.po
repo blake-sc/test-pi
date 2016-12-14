@@ -3443,13 +3443,17 @@ msgstr ""
 "Project-Id-Version: suttas 1\n"
 "Report-Msgid-Bugs-To: sujato@gmail.com\n"
 "POT-Creation-Date: 2016-10-18 12:04+0157\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-11-10 22:37+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
 "Language-Team: SuttaCentral\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1478817429.000000\n"
 
 #. <html><head><meta charset="utf8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -5500,9 +5504,12 @@ msgctxt "dn2:99.1"
 msgid "So iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriyasaṃvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ."
 msgstr ""
 
+#, fuzzy
 msgctxt "dn2:99.2"
 msgid "So pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā."
 msgstr ""
+"After the meal, they return from alms-round, sit down in the meditation "
+"posture with their body erect, and establish mindfulness right there."
 
 #. </p><p><a class="sc" id="80"></a>
 msgctxt "dn2:100.1"
@@ -6386,20 +6393,23 @@ msgstr ""
 msgctxt "dn2:140.1"
 msgid "Sāmaññaphalasuttaṃ niṭṭhitaṃ dutiyaṃ."
 msgstr ""
-
 #Translation Template For SuttaCentral
 msgid ""
 msgstr ""
 "Project-Id-Version: suttas 1\n"
 "Report-Msgid-Bugs-To: sujato@gmail.com\n"
 "POT-Creation-Date: 2016-10-18 12:04+0157\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-10-18 16:54+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: SuttaCentral\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1476809673.000000\n"
 
 #. <html><head><meta charset="utf8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -7890,9 +7900,10 @@ msgid "“No hidaṃ, bho gotama”."
 msgstr ""
 
 #. </p><p><a class="sc" id="60"></a><a class="wp" id="wp2.10"></a>
+#, fuzzy
 msgctxt "dn3:74.1"
 msgid "“…"
-msgstr ""
+msgstr "“…"
 
 msgctxt "dn3:74.2"
 msgid "pe …"
@@ -7907,9 +7918,10 @@ msgid "“No hidaṃ, bho gotama”."
 msgstr ""
 
 #. </p><p><a class="sc" id="61"></a>
+#, fuzzy
 msgctxt "dn3:75.1"
 msgid "“…"
-msgstr ""
+msgstr "“…"
 
 msgctxt "dn3:75.2"
 msgid "pe …"
@@ -7924,9 +7936,10 @@ msgid "“No hidaṃ, bho gotama”."
 msgstr ""
 
 #. </p><p><a class="sc" id="62"></a>
+#, fuzzy
 msgctxt "dn3:76.1"
 msgid "“…"
-msgstr ""
+msgstr "“…"
 
 msgctxt "dn3:76.2"
 msgid "pe …"
@@ -7941,9 +7954,10 @@ msgid "“No hidaṃ, bho gotama”."
 msgstr ""
 
 #. </p><p><a class="sc" id="63"></a>
+#, fuzzy
 msgctxt "dn3:77.1"
 msgid "“…"
-msgstr ""
+msgstr "“…"
 
 msgctxt "dn3:77.2"
 msgid "pe …"
@@ -8385,20 +8399,23 @@ msgstr ""
 msgctxt "dn3:95.1"
 msgid "Ambaṭṭhasuttaṃ niṭṭhitaṃ tatiyaṃ."
 msgstr ""
-
 #Translation Template For SuttaCentral
 msgid ""
 msgstr ""
 "Project-Id-Version: suttas 1\n"
 "Report-Msgid-Bugs-To: sujato@gmail.com\n"
 "POT-Creation-Date: 2016-10-18 12:04+0157\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-10-18 16:54+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: SuttaCentral\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1476809675.000000\n"
 
 #. <html><head><meta charset="utf8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -9748,9 +9765,10 @@ msgctxt "dn4:70.20"
 msgid "ñāṇadassanāya cittaṃ abhinīharati, abhininnāmeti."
 msgstr ""
 
+#, fuzzy
 msgctxt "dn4:70.21"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn4:70.22"
 msgid "pe …"
@@ -9904,20 +9922,23 @@ msgstr ""
 msgctxt "dn4:76.1"
 msgid "Soṇadaṇḍasuttaṃ niṭṭhitaṃ catutthaṃ."
 msgstr ""
-
 #Translation Template For SuttaCentral
 msgid ""
 msgstr ""
 "Project-Id-Version: suttas 1\n"
 "Report-Msgid-Bugs-To: sujato@gmail.com\n"
 "POT-Creation-Date: 2016-10-18 12:04+0157\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-10-18 16:54+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: SuttaCentral\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1476809679.000000\n"
 
 #. <html><head><meta charset="utf8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -11703,9 +11724,10 @@ msgid "Ayaṃ kho, brāhmaṇa, yañño purimehi yaññehi appaṭṭhataro ca a
 msgstr ""
 
 #. </p><p><a class="sc" id="97"></a><a class="wp" id="wp97"></a>
+#, fuzzy
 msgctxt "dn5:110.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn5:110.2"
 msgid "pe …"
@@ -11727,9 +11749,10 @@ msgctxt "dn5:110.6"
 msgid "Ayampi kho, brāhmaṇa, yañño purimehi yaññehi appaṭṭhataro ca appasamārambhataro ca mahapphalataro ca mahānisaṃsataro cāti."
 msgstr ""
 
+#, fuzzy
 msgctxt "dn5:110.7"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn5:110.8"
 msgid "pe …"
@@ -11893,20 +11916,23 @@ msgstr ""
 msgctxt "dn5:119.1"
 msgid "Kūṭadantasuttaṃ niṭṭhitaṃ pañcamaṃ."
 msgstr ""
-
 #Translation Template For SuttaCentral
 msgid ""
 msgstr ""
 "Project-Id-Version: suttas 1\n"
 "Report-Msgid-Bugs-To: sujato@gmail.com\n"
 "POT-Creation-Date: 2016-10-18 12:04+0157\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-10-18 16:54+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: SuttaCentral\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1476809680.000000\n"
 
 #. <html><head><meta charset="utf8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -12495,9 +12521,10 @@ msgid "Evaṃ kho, āvuso, bhikkhu sīlasampanno hoti."
 msgstr ""
 
 #. </p><p><a class="sc" id="24"></a><a class="pts" id="pts1.158"></a>
+#, fuzzy
 msgctxt "dn6:32.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn6:32.2"
 msgid "pe …"
@@ -12597,9 +12624,10 @@ msgctxt "dn6:32.25"
 msgid "‘taṃ jīvaṃ taṃ sarīran’ti vā ‘aññaṃ jīvaṃ aññaṃ sarīran’ti vāti?"
 msgstr ""
 
+#, fuzzy
 msgctxt "dn6:32.26"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn6:32.27"
 msgid "pe …"
@@ -12626,9 +12654,10 @@ msgid "‘taṃ jīvaṃ taṃ sarīran’ti vā ‘aññaṃ jīvaṃ aññaṃ
 msgstr ""
 
 #. </p><p><a class="sc" id="25"></a><a class="wp" id="wp19"></a>
+#, fuzzy
 msgctxt "dn6:33.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn6:33.2"
 msgid "pe …"
@@ -12679,20 +12708,23 @@ msgstr ""
 msgctxt "dn6:35.1"
 msgid "Mahālisuttaṃ niṭṭhitaṃ chaṭṭhaṃ."
 msgstr ""
-
 #Translation Template For SuttaCentral
 msgid ""
 msgstr ""
 "Project-Id-Version: suttas 1\n"
 "Report-Msgid-Bugs-To: sujato@gmail.com\n"
 "POT-Creation-Date: 2016-10-18 12:04+0157\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-10-18 16:54+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: SuttaCentral\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1476809681.000000\n"
 
 #. <html><head><meta charset="utf8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -12768,9 +12800,10 @@ msgid "Evaṃ kho, āvuso, bhikkhu sīlasampanno hoti."
 msgstr ""
 
 #. </p><p><a class="sc" id="3"></a><a class="pts" id="pts1.160"></a>
+#, fuzzy
 msgctxt "dn7:5.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn7:5.2"
 msgid "pe …"
@@ -12894,9 +12927,10 @@ msgid "pe …."
 msgstr ""
 
 #. </p><p><a class="sc" id="4"></a><a class="wp" id="wp5"></a>
+#, fuzzy
 msgctxt "dn7:6.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "dn7:6.2"
 msgid "pe …"
@@ -12947,7 +12981,6 @@ msgstr ""
 msgctxt "dn7:8.1"
 msgid "Jāliyasuttaṃ niṭṭhitaṃ sattamaṃ."
 msgstr ""
-
 #Translation Template For SuttaCentral
 msgid ""
 msgstr ""
